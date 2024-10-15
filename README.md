@@ -1,2 +1,2 @@
 # GifExperApp
-Este e smi repsoito dle protyecto de GifExpertApp de React
+## Link: https://jafetms.github.io/react-gif-expert/
